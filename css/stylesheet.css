@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	color: #FFF0E5;
+	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+	text-align: center;
+}
+
+h2 {
+	color: #DC5879;
+	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+
+h3 {
+	color: #DC5879;
+	font-family:"Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+	float:left;
+	
+}
+
+h4 {
+	color: #DC5879;
+	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+
+h5 {
+	color: #DC5879;
+	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+
+p {
+	color: #DC5879;
+	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+
+#wrapper {
+	width: 80%;
+	background-color: #FFF5FF;
+	margin: auto;
+	clear: left;
+	float: left;
+}
+
+
+
+#header {
+	width: 97%;
+	height: 200px;
+	border: 1px;
+	padding: 5px;
+	margin: 5px;
+	background-image: url("../images/Header_strawbs.jpg");
+	background-position: center;
+	text-align: center;
+}
+
+
+#nav {
+	width: 97%;
+	border: 1px solid #DC5879;
+	background-color:#FFF0E5;
+	padding: 5px;
+	margin: 5px;
+	clear: left;
+	float:left;
+	
+}
+
+ul {
+	color: #DC5879;
+	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+	padding: 0.3em 10px;
+	float: left;
+}
+
+	
+main {
+	width: 96%;
+	border: 1px solid #DC5879;
+	padding: 10px;
+	margin: 5px;
+	background-color:#FFF0E5;
+	border-radius: 8px;
+	clear: both;
+	float: inherit;
+	
+}
+
+sidebar {
+	width: 33%;
+	border: 1px solid #DC5879;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 8px;
+	background-color: #FFF5FF;
+	clear: left;
+	float: left;
+}
+
+
+section {
+ 	width: 57%;
+	border: 1px solid #DC5879;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 8px;
+	float: right;
+	clear: right;
+	
+}
+
+div {
+	width: 92%;
+	border: 1px solid #DC5879;
+	padding: 10px;
+	margin:  auto;
+	border-radius: 8px;
+	background-color: #FFF5FF;
+	
+}
+
+
+article  {
+	width: 42%;
+	border: 1px solid #DC5879;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 10px;
+	float: left;	
+}
+
+aside {
+	width: 33%;
+	border: 1px solid #DC5879;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 8px;
+	clear: left;
+	float: right;
+	background-color: #FFF5FF;
+}
+
+
+#footer {
+	width: 97%;
+	height: 150px;
+	border: 1px solid #DC5879;
+	padding: 5px;
+	margin: 5px;
+	background-color:#FFF0E5;
+	clear: left;
+	float: left;
+}
