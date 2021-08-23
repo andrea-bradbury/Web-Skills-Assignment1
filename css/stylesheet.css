@@ -8,10 +8,11 @@
 }
 
 h1 {
-	color: #FFF0E5;
+	color: #fa82a0;
+	text-shadow: 1px 1px #FFF5FF ;
 	font-family: "Apercu",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
 	text-align: center;
-	padding: 4px;
+	padding: 30px;
 }
 
 h2 {
